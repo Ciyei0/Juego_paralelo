@@ -1,0 +1,15 @@
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.AssemblyInfoInputs.cache
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.AssemblyInfo.cs
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.csproj.CoreCompileInputs.cache
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.sourcelink.json
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\bin\Debug\net8.0\Juego_caballo.exe
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\bin\Debug\net8.0\Juego_caballo.deps.json
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\bin\Debug\net8.0\Juego_caballo.runtimeconfig.json
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\bin\Debug\net8.0\Juego_caballo.dll
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\bin\Debug\net8.0\Juego_caballo.pdb
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.dll
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\refint\Juego_caballo.dll
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.pdb
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\Juego_caballo.genruntimeconfig.cache
+C:\Users\raymo\OneDrive\Documents\GitHub\Juego_paralelo\Juego_caballo\Juego_caballo\obj\Debug\net8.0\ref\Juego_caballo.dll
