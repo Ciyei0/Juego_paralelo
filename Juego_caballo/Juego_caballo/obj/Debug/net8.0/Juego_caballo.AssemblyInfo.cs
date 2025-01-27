@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Juego_caballo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e50666bf90a6a8de8de6050d6758d1daeb5ccf58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5415ec5d6453588d4afbc1eddecf9e0b8b9f2c97")]
 [assembly: System.Reflection.AssemblyProductAttribute("Juego_caballo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Juego_caballo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
